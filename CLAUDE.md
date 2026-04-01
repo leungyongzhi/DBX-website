@@ -1,3 +1,4 @@
+<!-- @embed:start file="public-components/CLAUDE.md" -->
 ## Project Overview
 
 This is an **Untitled UI React** component library project built with:
@@ -813,3 +814,4 @@ Use background color variables to manage all fill colors for elements in your de
 | bg-success-primary      | Primary success state background color for components.                                                                                                                                        |
 | bg-success-secondary    | Secondary success state background color for components such as featured icons.                                                                                                               |
 | bg-success-solid        | Default solid (dark) success state background color for components such as featured icons and metric items.                                                                                   |
+<!-- @embed:end -->

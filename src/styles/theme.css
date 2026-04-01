@@ -121,17 +121,25 @@
     --color-alpha-white: rgb(255 255 255);
     --color-alpha-black: rgb(0 0 0);
 
-    --color-brand-50: rgb(249 245 255);
-    --color-brand-100: rgb(244 235 255);
-    --color-brand-200: rgb(233 215 254);
-    --color-brand-300: rgb(214 187 251);
-    --color-brand-400: rgb(182 146 246);
-    --color-brand-500: rgb(158 119 237);
-    --color-brand-600: rgb(127 86 217);
-    --color-brand-700: rgb(105 65 198);
-    --color-brand-800: rgb(83 56 158);
-    --color-brand-900: rgb(66 48 125);
-    --color-brand-950: rgb(44 28 95);
+    /* DBX Brand: Forest Teal #083335 */
+    --color-brand-50: rgb(233 247 247);
+    --color-brand-100: rgb(196 234 235);
+    --color-brand-200: rgb(139 208 210);
+    --color-brand-300: rgb(64 178 182);
+    --color-brand-400: rgb(38 131 136);
+    --color-brand-500: rgb(22 89 93);
+    --color-brand-600: rgb(8 51 53);
+    --color-brand-700: rgb(6 37 40);
+    --color-brand-800: rgb(4 24 26);
+    --color-brand-900: rgb(2 15 17);
+    --color-brand-950: rgb(1 9 10);
+
+    /* DBX Accent Colors */
+    --color-dbx-red: rgb(132 16 16);
+    --color-dbx-red-light: rgb(192 40 40);
+    --color-dbx-bronze: rgb(162 123 91);
+    --color-dbx-cream: rgb(220 215 201);
+    --color-dbx-slate: rgb(63 78 79);
 
     /* LIGHT MODE VARIABLES */
 

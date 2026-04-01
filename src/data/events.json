@@ -1,0 +1,26 @@
+[
+  {
+    "title": "DBX Open Regatta",
+    "date": "16–17 May 2026",
+    "location": "West India Docks, Canary Wharf",
+    "category": "All Levels",
+    "accent": "#083335",
+    "accentBg": "rgba(8,51,53,0.1)"
+  },
+  {
+    "title": "Corporate Challenge Cup",
+    "date": "13 June 2026",
+    "location": "Royal Docks, London",
+    "category": "Corporate",
+    "accent": "#841010",
+    "accentBg": "rgba(132,16,16,0.1)"
+  },
+  {
+    "title": "Team GB Youth Trials",
+    "date": "19 July 2026",
+    "location": "National Water Sports Centre, Nottingham",
+    "category": "Youth Elite",
+    "accent": "#a27b5b",
+    "accentBg": "rgba(162,123,91,0.12)"
+  }
+]
